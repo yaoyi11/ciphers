@@ -29,4 +29,8 @@ python penetration.py -u http://www.scruffybank.com/ -t 5 -d php.txt
 
 截图：
 
+<<<<<<< HEAD
 ![pene1](C:\Users\sstl\Desktop\screenshots\pene1.PNG)
+=======
+![pene1](/python-penetration/screenshots/pene1.PNG)
+>>>>>>> 44af0d3b7993508aa91dca74afb6463094f59438
